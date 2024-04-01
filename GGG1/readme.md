@@ -22,4 +22,3 @@ GIT logo by Jason Long - https://ru.wikipedia.org/wiki/Файл:Git-logo.svg#/me
 
 
 
-[def]: ./assets/Git-logo.png.png
