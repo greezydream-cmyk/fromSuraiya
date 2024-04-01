@@ -2,7 +2,7 @@
 
 LICENSE: [MIT](./license.md)
 
-![git-logo](./assets/Git-logo.png.png)
+![git-logo](./assets/git-original-wordmark.png)
 
 --- 
 
@@ -14,7 +14,7 @@ LICENSE: [MIT](./license.md)
 
 ---
 
-GIT logo by Jason Long - https://ru.wikipedia.org/wiki/Файл:Git-logo.svg#/media/Файл:Git-logo.svg license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
+GIT logo by Jason Long - https://logo.svgcdn.com/devicon/git-original-wordmark.png  license [CC BY 3.0](https://creativecommons.org/licenses/by/3.0/)
 
 
 
